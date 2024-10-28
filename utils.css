@@ -1,0 +1,45 @@
+.bg-red {
+    background-color: darkblue;
+    color: #fff;
+}
+
+.bg-red:hover {
+    background-color: black;
+}
+
+.button.operator {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button.operator:hover {
+    background-color: #43a047;
+}
+
+.button.equals {
+    background-color: #2196F3;
+    color: white;
+}
+
+.button.equals:hover {
+    background-color: #1e88e5;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+hr {
+    width: 97%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.text-center {
+    margin-top: -05px;
+    padding-top: 30px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 27px;
+    font-family: Roboto;
+}
